@@ -44,7 +44,7 @@ Multi-physics modeling | Algorithm development | Statistical analysis | Machine 
 
 ## 🌟 Featured Projects
 
-### ☀️ [PVMismatch](https://github.com/Maxeon-RnD/PVMismatch)
+### ☀️ [v_PVMismatch](https://github.com/Maxeon-RnD/PVMismatch)
 Vectorized version of SunPower's PVMismatch using dynamic programming
 - Physics-based electrical shade model for PV systems
 - Integrated with Shapely for 3D geometric algorithms
