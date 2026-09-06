@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 Mechanical Engineer with **15+ years** developing physics-based algorithms and computational models for:
-- ☀️ Photovoltaic system performance modeling (current role at **Maxeon Solar Technologies**)
+- ☀️ Photovoltaic system performance modeling and analysis(current role at **Tesla** and 4 years at **Maxeon Solar Technologies**)
 - 🛡️ Automotive safety systems (10 years at **ZF Active & Passive Safety**)
 - ✈️ Aerospace control systems (graduate research at **University of Michigan**)
 
